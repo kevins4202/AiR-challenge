@@ -1,3 +1,4 @@
+![Static Image](p1_output.png)
 1. Static image processing\
 For the first challenge, I tried multiple approaches constituting a combination of blurring, eroding, dilating,
  masking, canny image detection, and contouring. I knew that I had to use contouring to detect the area of the
