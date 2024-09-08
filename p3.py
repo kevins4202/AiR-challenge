@@ -27,8 +27,8 @@ def contours(img): #draw contours
     return img, contours, thresh
 
 
-cap = cv.VideoCapture('p2.mp4')
-
+cap = cv.VideoCapture('p3.mp4')
+ 
 while cap.isOpened():
     kernel = np.ones((5,5),np.uint8)
     ret, img = cap.read()
